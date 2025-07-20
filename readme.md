@@ -7,6 +7,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blueviolet)
 [![Issues](https://img.shields.io/badge/issues-0-green)](https://github.com/Goldi3210/EasyWelcomer/issues)
 [![Stars](https://img.shields.io/badge/stars-42-yellow)](https://github.com/Goldi3210/EasyWelcomer/stargazers)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://www.java.com/)
 
 ## Opis
 
