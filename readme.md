@@ -5,6 +5,8 @@
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.5-blue)
 ![Version](https://img.shields.io/badge/version-1.0.0-blueviolet)
+[![Issues](https://img.shields.io/badge/issues-0-green)](https://github.com/Goldi3210/EasyWelcomer/issues)
+[![Stars](https://img.shields.io/badge/stars-42-yellow)](https://github.com/Goldi3210/EasyWelcomer/stargazers)
 
 ## Opis
 
