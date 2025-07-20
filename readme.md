@@ -1,6 +1,10 @@
 # EasyWelcomer
 
 ![EasyWelcomer Banner](https://img.shields.io/badge/Minecraft-EasyWelcomer-brightgreen)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.5-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-blueviolet)
 
 ## Opis
 
