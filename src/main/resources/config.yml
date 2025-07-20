@@ -1,0 +1,24 @@
+enableMessage: true
+message: "&aWitaj, %player%! Miło Cię widzieć :)"
+
+enableTitle: true
+title: "&6Witaj %player%!"
+subtitle: "&fMiłej gry!"
+
+enableSound: true
+sound: "ENTITY_PLAYER_LEVELUP"
+
+enableParticle: true
+particle: "HEART"
+
+enableActionbar: true
+actionbar: "&eZacznij przygodę już teraz!"
+
+starterItems:
+  enabled: true
+  items:
+    - "WOODEN_SWORD"
+    - "BREAD:5"
+    - "TORCH:16"
+
+onlyFirstJoin: true
